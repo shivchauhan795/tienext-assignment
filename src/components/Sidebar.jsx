@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from '../icons/Home'
+import Home from '../icons/home'
 import Docs from '../icons/docs'
 import Chat from '../icons/chat'
 import Search from '../icons/search'
