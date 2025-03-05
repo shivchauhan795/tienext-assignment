@@ -1,11 +1,11 @@
 import React from 'react'
 import Button from './Button'
-import midCenter1 from '../assets/MidCenter1.svg'
-import midCenter2 from '../assets/MidCenter2.svg'
-import midCenter3 from '../assets/MidCenter3.svg'
-import midCenter4 from '../assets/MidCenter4.svg'
-import midCenter5 from '../assets/MidCenter5.svg'
-import midCenter6 from '../assets/MidCenter6.svg'
+import midCenter1 from '../assets/midCenter1.svg'
+import midCenter2 from '../assets/midCenter2.svg'
+import midCenter3 from '../assets/midCenter3.svg'
+import midCenter4 from '../assets/midCenter4.svg'
+import midCenter5 from '../assets/midCenter5.svg'
+import midCenter6 from '../assets/midCenter6.svg'
 
 const MiddleCenterCard = () => {
     return (
